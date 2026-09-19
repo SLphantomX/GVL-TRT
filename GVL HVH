@@ -1118,7 +1118,7 @@ do
 end
 
 -- ANTI KICKS (9rr)
-local AntiKickGroup = Tabs.Gucci:AddLeftGroupbox("Anti Kicks (9rr)", "shield-check")
+local AntiKickGroup = Tabs.Gucci:AddLeftGroupbox("Anti Kicks", "shield-check")
 
 do
     local shurikenAntiKickActive = false
@@ -1465,7 +1465,7 @@ do
 end
 
 -- ALAX VI ANTI LAG
-local AlaxAntiLagGroup = Tabs.Gucci:AddLeftGroupbox("Anti Lag (Alax VI)", "zap-off")
+local AlaxAntiLagGroup = Tabs.Gucci:AddLeftGroupbox("Anti Lag", "zap-off")
 
 local ocnAntiLagOn = false
 local ocnFpsThreshold = 30
@@ -1627,7 +1627,7 @@ InputLagGroup:AddCheckbox("InstantInputLag", {
 })
 
 -- 9rr ANTI & DEFENSE
-local Anti9rrGroup = Tabs.Gucci:AddRightGroupbox("9rr Anti & Defense", "shield-check")
+local Anti9rrGroup = Tabs.Gucci:AddRightGroupbox("Anti & Defense", "shield-check")
 
 do
     local antiOwnershipActive = false
