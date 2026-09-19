@@ -139,8 +139,8 @@ task.spawn(function()
 end)
 
 local Window = Library:CreateWindow({
-    Title = "GVL HVH",
-    Footer = "by phantom_GVLxTSWxNFL | 9rr UI",
+    Title = "rything v1.1",
+    Footer = "by PTX_GVLxTSWxNFLxFR",
     Icon = 5436396975,
     NotifySide = "Right",
     ShowCustomCursor = false,
